@@ -1,0 +1,3 @@
+repository "Demon-s-hand/Demon-s-hand@14569534658193@cloud"
+  path "/"
+    smartbranch "/main/kyungbae"
